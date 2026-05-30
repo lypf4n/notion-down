@@ -1,0 +1,16 @@
+## 敏感配置
+NotionDown.Console/appsettings.Development.json
+NotionDown.Console/appsettings.Production.json
+
+## .NET
+*/bin/
+*/obj/
+*.user
+*.suo
+.vs/
+
+## Claude Code
+.claude/
+
+## VS Code
+.vscode/
